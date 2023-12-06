@@ -1,8 +1,4 @@
-"""
-Name: Precious ossamuyimen
-objective: creating a BMI tool to find the highest and, lowest and average  BMI for a group
-Date 13/11/2023
-"""
+
 def greeting():
     """this function will provide the objective of the program and ask the user if they would like to continue"""
     choice = str(input('do you want to go futher (Y) or (n): ')) # this
